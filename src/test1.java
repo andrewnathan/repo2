@@ -23,5 +23,8 @@ public class test1 {
         
     }
     
-    
+    private void y()
+    {
+        
+    }
 }
