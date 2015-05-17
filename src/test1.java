@@ -15,7 +15,7 @@ public class test1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("yup java3.1 remote");
+        System.out.println("yup java3.1 remote2");
     }
     
     private void x() 
